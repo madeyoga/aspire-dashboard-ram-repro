@@ -1,0 +1,8 @@
+venv/
+*.nupkg
+aspire.dashboard.sdk.linux-x64/
+aspire.cli/
+aspire.cli.linux-x64/
+*.log
+__pycache__/
+.Python
